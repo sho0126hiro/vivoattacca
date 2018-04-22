@@ -329,3 +329,32 @@
   329  python calc.py
   330  history
   331  history > history.txt
+  332  cat history.txt
+  333  ls
+  334  git add history.txt
+  335  git commit "Akari000"
+  336  git push
+  337  git pull
+  338  git commit -m "add history_file"
+  339  git push
+  340  git branch
+  341  git push origin master
+  342  git log
+  343  git pull origin master
+  344  git pull origin master
+  345  git push origin master
+  346  git log
+  347  git status
+  348  git commit -m "pull"
+  349  git push origin master
+  350  git log
+  351  git push
+  352  git branch
+  353  git checkout master
+  354  git log
+  355  git status
+  356  git branch
+  357  git cherry-pick 86cc2fb9221d130ee0c9798644e4ecb83c62b92b
+  358  git log
+  359  git push
+  360  history > history.txt
