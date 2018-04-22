@@ -1,0 +1,331 @@
+    1  cd ~/Desktop/
+    2  gcc hello.c
+    3  ls
+    4  ./a.out
+    5  ./a.out
+    6  gcc 3j32kadai1-3.c 
+    7  gcc 3j32kadai1-3.c 
+    8  gcc 3j32kadai1-1.c 
+    9  ./a.out
+   10  cd 実践プログラミング/
+   11  gcc 3j32kadai1-1.c 
+   12  ./a.out
+   13  gcc 3j32kadai
+   14  gcc 3j32kadai1-3.c 
+   15  gcc 3j32kadai1-3.c 
+   16  gcc 3j32kadai1-3.c 
+   17  gcc 3j32kadai1-3.c 
+   18  gcc 3j32kadai2-1.c 
+   19  gcc 3j32kadai3-1.c 
+   20  gcc 3j32kadai1-3.c 
+   21  ./a.out
+   22  cd ~/Desktop/
+   23  cd ~/Desktop/実践プログラミング/
+   24  gcc 3j32kadai1-4.c
+   25  ./a.out
+   26  ./a.out
+   27  ./a.out
+   28  cd Desktop
+   29  dr
+   30  gcc
+   31  cd a.out 
+   32  a.
+   33  a.out
+   34  cd a.out 
+   35  gcc a.out 
+   36  cd ソリスト一覧.xlsx 
+   37  gcc celebraion.docx 
+   38  start celebraion.docx 
+   39  E
+   40  cd E 
+   41  dr
+   42  dif
+   43  a
+   44  a
+   45  cd A
+   46  gcc main.c 
+   47  a.out
+   48  ./a.out
+   49  gcc main.c 
+   50  start a.out
+   51  gcc a.out 
+   52  gcc main.c 
+   53  ./a.out
+   54  cd /d E:¥
+   55  dir
+   56  cd cd /d E:
+   57  cd /d AKARI:\ 
+   58  cd /Volumes/AKARI/3年/4後期実プロ
+   59  dir
+   60  cd kadai2.c 
+   61  gcc kadai2.c 
+   62  ./ a.out
+   63  ./a.out
+   64  gcc kadai2.c 
+   65  ./a.out
+   66  cd desktop
+   67  cd AKARI
+   68  cd /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+   69  cd /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+   70  cd Volumes:AKARI
+   71  Volumse/AKARI
+   72  cd c:AKARI
+   73  cd c:\
+   74  cd AKARI:dr
+   75  cd AKARI:3年
+   76  /Volumes/AKARI 
+   77  cd /Volumes/AKARI :/Volumes/AKARI 
+   78  dr
+   79  cd 3年/
+   80  cd 実プロ/
+   81  cd 実プロ
+   82  gcc main.c 
+   83  a.exe 40
+   84  a.exe
+   85  a.out 40
+   86  a.out
+   87  a.out
+   88  gcc 
+   89  gcc main.c
+   90  a.out
+   91  a.exe
+   92  a.out
+   93  cd a.out
+   94  /Volumes/AKARI/3年/実プロ/実プロ/a.out 
+   95  cd AKARI:/
+   96  cd Volumes/AKARI
+   97  cd Volumes/AKARI:/Volumes/AKARI 
+   98  cd c:Volumes/AKARI 
+   99  cd Volumes/AKARI:\ 
+  100  /Volumes/AKARI 
+  101  cd /Volumes/AKARI 
+  102  cd 3年/
+  103  cd 実プロ/
+  104  cd 実
+  105  cd 実プロ
+  106  gcc main.c
+  107  a.out 40
+  108  /Volumes/AKARI/3年/実プロ/実プロ/a.out 
+  109  /Volumes/AKARI/3年/実プロ/実プロ/a.out 40
+  110  /Volumes/AKARI/3年/実プロ/実プロ/a.out 50
+  111  cd /Volumes/AKARI
+  112  cd/Volumes/AKARI/3年/実プロ/実プロ
+  113  cd /Volumes/AKARI/3年/実プロ/実プロ
+  114  gcc main.c
+  115  a.out 40
+  116  /Volumes/AKARI/3年/実プロ/実プロ/a.out 40
+  117  /Volumes/AKARI/3年/実プロ/実プロ/a.out -1
+  118  /Volumes/AKARI/3年/実プロ/実プロ/a.out 1
+  119  /Volumes/AKARI/3年/実プロ/実プロ/a.out 200
+  120  /Volumes/AKARI/3年/実プロ/実プロ/a.out 201
+  121  /Volumes/AKARI/3年/実プロ/実プロ/a.out a
+  122  /Volumes/AKARI/3年/実プロ/実プロ/a.out b
+  123  /Volumes/AKARI/3年/実プロ/実プロ/a.out ab
+  124  /Volumes/AKARI/3年/実プロ/実プロ/a.out A
+  125  /Volumes/AKARI/3年/実プロ/実プロ/a.out 00
+  126  /Volumes/AKARI/3年/実プロ/実プロ/a.out 01
+  127  /Volumes/AKARI/3年/実プロ/実プロ/a.out 10
+  128  /Volumes/AKARI/3年/実プロ/実プロ/a.out 300
+  129  /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  130  cd /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  131  cd /Volumes/AKARI/3年/実プロ/実プロ
+  132  gcc main.c
+  133  /Volumes/AKARI/3年/実プロ/実プロ/a.out -1
+  134  cd /Volumes/AKARI/3年/実プロ/実プロ
+  135  gcc main.c
+  136  /Volumes/AKARI/3年/実プロ/実プロ/a.out -1
+  137  cd/Volumes/AKARI 
+  138  cd /Volumes/AKARI 
+  139  cd /Volumes/AKARI/3年/実プロ/実プロ 
+  140  cd main.c 
+  141  gcc main.c 
+  142  /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  143  gcc /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  144  /Volumes/AKARI/3年/実プロ/実プロ/a.out 
+  145  gcc /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  146  /Volumes/AKARI/3年/実プロ/実プロ/a.out a
+  147  /Volumes/AKARI/3年/実プロ/実プロ/a.out 1
+  148  /Volumes/AKARI/3年/実プロ/実プロ/a.out -1
+  149  cd /Volumes/AKARI 
+  150  cd /Volumes/AKARI/3年/実プロ/実プロ 
+  151  gcc main.c 
+  152  /Volumes/AKARI/3年/実プロ/実プロ/a.out 0
+  153  gcc main.c 
+  154  ./a.out
+  155  ./a.out 
+  156  ./a.out 1
+  157  cd /Volumes/AKARI 
+  158  cd /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  159  gcc/Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  160  gcc /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  161  /Volumes/AKARI/3年/実プロ/実プロ/a.out 2
+  162  /Volumes/AKARI/3年/実プロ/実プロ/a.out 0
+  163  gcc /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  164  /Volumes/AKARI/3年/実プロ/実プロ/a.out 
+  165  /Volumes/AKARI/3年/実プロ/実プロ/a.out a
+  166  /Volumes/AKARI/3年/実プロ/実プロ/a.out b
+  167  /Volumes/AKARI/3年/実プロ/実プロ/a.out  
+  168  /Volumes/AKARI/3年/実プロ/実プロ/a.out 3o
+  169  /Volumes/AKARI/3年/実プロ/実プロ/a.out 30
+  170  /Volumes/AKARI/3年/実プロ/実プロ/a.out 203
+  171  gcc /Volumes/AKARI/3年/実プロ/実プロ/main.c 
+  172  /Volumes/AKARI/3年/実プロ/実プロ/a.out a
+  173  is
+  174  is
+  175  dir
+  176  cd
+  177  pwd
+  178  is
+  179  ls
+  180  cd Desktop
+  181  mkdir AAA
+  182  rm AAA
+  183  mv AAA BBB
+  184  mkdir BBB
+  185  mldir AAA
+  186  mkdir AAA
+  187  mkdir AAA.c
+  188  cp BBB AAA
+  189  pwd
+  190  man
+  191  man
+  192  man man
+  193  find Desktop -name swift
+  194  find Desktop -name old.pdf
+  195  clear
+  196  date
+  197  cp bataPr8.c bata.c
+  198  cd ..
+  199  cd ~/
+  200  cd Desktop
+  201  cd ~/
+  202  touch test.html
+  203  ls
+  204  rm test.html 
+  205  ls
+  206  li -l
+  207  ls -l
+  208  clear
+  209  cd Desktop
+  210  mkdir pyworks
+  211  cd pyworks
+  212  python
+  213  python
+  214  dir
+  215  ls
+  216  cd Desktop
+  217  cd pyworks
+  218  python
+  219  q
+  220  Q
+  221  ls
+  222  cd Documents/
+  223  ls
+  224  ..
+  225  cd ..
+  226  ls
+  227  cd Desktop
+  228  mkdir aaa
+  229  cd aaa
+  230  git init
+  231  pwd
+  232  mkdir develop
+  233  cd develop
+  234  pwd
+  235  git
+  236  git clone
+  237  git clone https://github.com/Akari000/vivoattacca.git
+  238  cd vivoattacca
+  239  git branch
+  240  git config --global
+  241  git config --global --list
+  242  cd ..
+  243  git init test
+  244  ls
+  245  cd test
+  246  git branch
+  247  git push origin master
+  248  git push
+  249  git push master
+  250  git push -u
+  251  git push master -u
+  252  git push --set-upstream master master
+  253  git log
+  254  git add .
+  255  git commit -m "init"
+  256  git push
+  257  git push master
+  258  git push -u origin master
+  259  git log
+  260  ls
+  261  git add test.txt
+  262  git commit -m "test.txt"
+  263  git push -u origin master
+  264  git push master
+  265  git push --set-upstream master master
+  266  cd ../vivoattaccata
+  267  cd ../vivoattacca
+  268  git branch
+  269  cd ../test
+  270  git remote add origin git@github.com:Akari000/test.git
+  271  git push -u origin master
+  272  cd ~/.ssh
+  273  pwd
+  274  ssh-keygen -t rsa
+  275  ls
+  276  pbcopy git.pub
+  277  pbcopy ~/.ssh/git.pub
+  278  pbcopy ~/.ssh/git.pub
+  279  cat ~/.ssh/git.pub
+  280  ssh -T git@github.com
+  281  vim ~/.ssh/config 
+  282  ssh -T git@github.com -i ~/.ssh/git
+  283  ssh -T git@github.com
+  284  cd develop/test
+  285  git push origin master
+  286  git remote add origin
+  287  cd ../vivoattacca
+  288  git log
+  289  commit --allow-empty -m "init"
+  290  git commit --allow-empty -m "init"
+  291  git push
+  292  git push
+  293  ls
+  294  git pull
+  295  ls
+  296  vim test.txt
+  297  git diff
+  298  git add
+  299  git add test.txt
+  300  git commit -m "add Hello"
+  301  git push
+  302  vim test.txt
+  303  git add test.txt
+  304  git commit -m "add Akari000"
+  305  git push
+  306  git pull
+  307  vim test.txt
+  308  vim test.txt
+  309  git add test.txt
+  310  git commit -m "Akari000"
+  311  git push
+  312  vim test.txt
+  313  git add test.txt
+  314  git commit -m "add Akari000"
+  315  git push
+  316  python -v
+  317  git pull
+  318  vi
+  319  vim calc.py
+  320  python calc.py
+  321  git log
+  322  git checkout 24f8571e1b4de840781194ed1f3f63262a3367d9
+  323  vim calc.py
+  324  git log
+  325  git checkout master
+  326  git log
+  327  git checkout  02583df5c2c2ab69546394d155af7b36bd7b24cb
+  328  git log
+  329  python calc.py
+  330  history
+  331  history > history.txt
